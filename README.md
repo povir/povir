@@ -1,16 +1,25 @@
-### Hi there 👋
+# Portfolio
 
-<!--
-**povir/povir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Maksym, and this is my portfolio.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Project 1: MMORPG on Unreal Engine 5** A fantasy MMORPG with an open world, magic, and freedom of choice.
+
+- **Project 2: "Classified"**.
+
+## Skills
+
+- Unreal Engine 5 Development.
+- Languages:
+  - Native:
+    - Ukrainian
+    - Russian
+  - English: B2
+  - Polish: B1
+- Programming:
+  - C++
+  - C#
+  - Java
+  - Python
+- Cybersecurity
