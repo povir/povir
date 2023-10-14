@@ -1,7 +1,5 @@
 # 🎮 Portfolio
 
-Hello, my name is Maxim, and this is my gaming and programming portfolio.
-
 ## 💼 Projects
 
 - **Project 1: MMORPG on Unreal Engine 5** A fantasy MMORPG with an open world, magic, and freedom of choice.
