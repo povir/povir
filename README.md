@@ -24,4 +24,4 @@
 
 ## 📧 Contact
 
-Feel free to reach me at: your@email.com 📩.
+Feel free to reach me at discord: @povir
