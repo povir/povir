@@ -17,9 +17,6 @@
   - Polish: B1 🇵🇱
 - Programming:
   - C++ 🖥️
-  - C# #️⃣
-  - Java ☕
-  - Python 🐍
 - Cybersecurity 🔒
 
 ## 📧 Contact
