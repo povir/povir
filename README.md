@@ -11,10 +11,10 @@
 - Unreal Engine 5 Development 🎮.
 - Languages:
   - Native:
-    - Ukrainian 🇺🇦
-    - Russian 🇷🇺
-  - English: B2 🇬🇧
-  - Polish: B1 🇵🇱
+    - Ukrainian
+    - Russian
+  - English: B2
+  - Polish: B1
 - Programming:
   - C++ 🖥️
 - Cybersecurity 🔒
