@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maxim</h1>
+<h1 align="center">Hi 👋, I'm Maksym</h1>
 <h3 align="center">Student and programmer from Odessa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=povir&label=Profile%20views&color=0e75b6&style=flat" alt="povir" /> </p>
