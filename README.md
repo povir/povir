@@ -45,15 +45,6 @@ Here are some of the technologies I work with:
 
 ---
 
-### My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mstohnii&show_icons=true&locale=en&theme=tokyonight&show_icons=true&hide_border=true" alt="mstohnii's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mstohnii&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="mstohnii's top languages" />
-</p>
-
----
-
 ### Connect With Me
 
 <p align="center">
