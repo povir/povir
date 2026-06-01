@@ -123,9 +123,9 @@ DevOps engineer focused on building reliable, automated cloud infrastructure. I 
 ## ~$ gh stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mstohnii&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Maksym's GitHub stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstohnii&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">
+    <img  alt="mstohnii's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mstohnii?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />
+  </a>
 </p>
 
 ---
