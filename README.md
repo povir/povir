@@ -29,7 +29,7 @@
 name:     Maksym Stohnii
 role:     DevOps Engineer
 location: Ukraine
-clouds:   [AWS, Azure]
+clouds:   [AWS, Azure, GCP]
 focus:
   - Kubernetes (AKS / EKS)
   - Infrastructure as Code — Terraform
